@@ -1,4 +1,3 @@
-// Path data for canvas shapes
 const shapePathData = [
   'M231,352l445-156L600,0L452,54L331,3L0,48L231,352',
   'M0,0l64,219L29,343l535,30L478,37l-133,4L0,0z',
